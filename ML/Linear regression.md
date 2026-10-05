@@ -8,7 +8,7 @@ This module introduces **linear regression** concepts.
 	**Prerequisites:**
 
 This module assumes you are familiar with the concepts covered in the following module:
-
+e
 - [Introduction to Machine Learning](https://developers.google.com/machine-learning/intro-to-ml)
 
 [**Linear regression**](https://developers.google.com/machine-learning/glossary#linear-regression) is a statistical technique used to find the relationship between variables. In an ML context, linear regression finds the relationship between [**features**](https://developers.google.com/machine-learning/glossary#feature) and a [**label**](https://developers.google.com/machine-learning/glossary#label).
@@ -30,6 +30,8 @@ If we plotted these points, we'd get the following graph:
 ![Figure 1. Data points showing downward-sloping trend from left to right.](https://developers.google.com/static/machine-learning/crash-course/linear-regression/images/car-data-points.png)
 
 **Figure 1**. Car heaviness (in pounds) versus miles per gallon rating. As a car gets heavier, its miles per gallon rating generally decreases.
+
+Note: line is called Line of best Fit
 
 We could create our own model by drawing a best fit line through the points:
 
